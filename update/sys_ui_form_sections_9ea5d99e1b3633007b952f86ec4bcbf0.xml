@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="9ea5d99e1b3633007b952f86ec4bcbf0" sys_domain="global" table="connection_attributes" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-24 13:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dea5d99e1b3633007b952f86ec4bcbf9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9ea5d99e1b3633007b952f86ec4bcbf0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9ea5d99e1b3633007b952f86ec4bcbf6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-24 13:40:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-24 13:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ea5d99e1b3633007b952f86ec4bcbfc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9ea5d99e1b3633007b952f86ec4bcbf0</sys_ui_form>
+            <sys_ui_section caption="Reference Specification" display_value="Reference Specification" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">d2a5d99e1b3633007b952f86ec4bcbfa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-24 13:40:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-24 13:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ea5d99e1b3633007b952f86ec4bcbf3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9ea5d99e1b3633007b952f86ec4bcbf0</sys_ui_form>
+            <sys_ui_section caption="Choice List Specification" display_value="Choice List Specification" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">5aa5d99e1b3633007b952f86ec4bcbf2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-24 13:40:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-24 13:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16a5d99e1b3633007b952f86ec4bcbf5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9ea5d99e1b3633007b952f86ec4bcbf0</sys_ui_form>
+            <sys_ui_section caption="Dependent Field" display_value="Dependent Field" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">12a5d99e1b3633007b952f86ec4bcbf4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-24 13:40:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-24 13:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9aa5d99e1b3633007b952f86ec4bcbf6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9ea5d99e1b3633007b952f86ec4bcbf0</sys_ui_form>
+            <sys_ui_section caption="Calculated Value" display_value="Calculated Value" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">1aa5d99e1b3633007b952f86ec4bcbf5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-24 13:40:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-24 13:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2a5d99e1b3633007b952f86ec4bcbfe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">9ea5d99e1b3633007b952f86ec4bcbf0</sys_ui_form>
+            <sys_ui_section caption="Default Value" display_value="Default Value" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">12a5d99e1b3633007b952f86ec4bcbfd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-24 13:40:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>connection_attributes</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-24 13:40:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ea5d99e1b3633007b952f86ec4bcbf0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>connection_attributes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IPInfo Spoke" source="x_311370_ipinfo_sp">e411309a1b7233007b952f86ec4bcbcf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">e411309a1b7233007b952f86ec4bcbcf</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9ea5d99e1b3633007b952f86ec4bcbf0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-24 13:40:33</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
